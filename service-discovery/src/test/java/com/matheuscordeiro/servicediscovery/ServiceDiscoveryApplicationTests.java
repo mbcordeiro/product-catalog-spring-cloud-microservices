@@ -1,10 +1,10 @@
-package com.matheuscordeiro.serivcediscovery;
+package com.matheuscordeiro.servicediscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SerivceDiscoveryApplicationTests {
+class ServiceDiscoveryApplicationTests {
 
 	@Test
 	void contextLoads() {
